@@ -79,6 +79,7 @@
     6)	Selesai.
 
     Program python:
+
     def luas_segitiga(a, t):
         luas = 0.5 * a * t
         return luas
